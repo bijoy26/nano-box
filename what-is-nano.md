@@ -24,5 +24,7 @@ Transactions in Nano occur between accounts with two separate actions:
 - Representative's Voting weight is the sum of balances for accounts delegating to them
 - The votes of **Principal Representatives** (high voting weight holders) are rebroadcast by other nodes in the network
 - No direct monetary incentive for nodes (removes the possibility of centralization forces)
+- An account's representative has no bearing on the account's transactions or nano_node operation
+- An account can freely change its representative anytime
 
 
