@@ -30,6 +30,6 @@
 ## :scroll: Credits
 
 1. Awesome cover image by [@lucasols](https://www.reddit.com/user/lucasols)
-
+2. Most of my info salvaged from [Nano Docs](https://docs.nano.org)
 
 ----
