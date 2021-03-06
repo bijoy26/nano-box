@@ -9,7 +9,6 @@
 
 <br>
 
-[![first-timers-only](#)
 
 ## :scroll: What's over here?
 **Personal documentation for understanding and building on **Nano** protocol.**
