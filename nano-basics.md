@@ -2,7 +2,7 @@
 
 ## Block Lattice Design
 
-### - Nano's ledger is built on a data-structure called a "Block Lattice." 
+### - Nano's ledger is built on a data-structure called a "Block Lattice". 
 ### - Every account (private/public key pair) has their own blockchain (account-chain). Only the holder of the private key may sign and publish blocks to their own account-chain. 
 ### - Each block represents a transaction.
 ### - Only two actions - SEND and RECEIVE funds
@@ -26,5 +26,5 @@
 		- Then puts it into the following hash function-
 			`PrivK[i] = blake2b(outLen = 32, input = seed || i)` (|| means concat)
 - Knowing it allows to access all the derived private keys from index 0 to 2^32 − 1
-- Nano reference wallet is described using **Blake2b private keys derivation ** (there are also **BIP44 deterministic wallets** and mnemonic seed with different private keys)
+- Nano reference wallet is described using **Blake2b private keys derivation** (there are also **BIP44 deterministic wallets** and mnemonic seed with different private keys)
 			
