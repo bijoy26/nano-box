@@ -103,8 +103,8 @@ But in signed transaction json, the "link" field is always hexadecimal.
 
 - Send nano(raw) to an address- `nano:nano_<encoded address>[?][amount=<raw amount>][&][label=<label>][&][message=<message>]`
 - Representative change - `nanorep:nano_<encoded address>[?][label=<label>][&][message=<message>]`
-- Private Key Import - `nanokey:<encoded private key>[?][label=<label>][&][message=<message>]
-- Seed import - `nanoseed:<encoded seed>[?][label=<label>][&][message=<message>][&][lastindex=<index>]
+- Private Key Import - `nanokey:<encoded private key>[?][label=<label>][&][message=<message>]`
+- Seed import - `nanoseed:<encoded seed>[?][label=<label>][&][message=<message>][&][lastindex=<index>]`
 - Process a JSON blob block - `nanoblock:<blob>`
 
 
