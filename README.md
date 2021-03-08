@@ -13,6 +13,12 @@
 ## :scroll: What's over here?
 **Personal documentation for understanding and building on **Nano** protocol.**
 
+## :scroll: Quick Access
+
+- [What is Nano](docs/what-is-nano.md)
+- [Run a Node](docs/run-a-node.md)
+- [Nano Basics](docs/nano-basics.md)
+
 ## :scroll: Stuffs you need to know
 **We need to understand the following topics :** 
 
